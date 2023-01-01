@@ -7,4 +7,4 @@ Example for reproducing TYPO3 Issue:
 git clone https://github.com/sypets/sypets_typo3_minimal_example_99295 sypets_example
 ```
 
-*Be sure to rename the extension to `sypets_example` (as done in the git clone example)!*
+**Be sure to rename the extension to `sypets_example` (as done in the git clone example)!**
