@@ -1,3 +1,5 @@
+!!! obsolete, issue has been fixed: https://review.typo3.org/c/Packages/TYPO3.CMS/+/76943
+
 Example for reproducing TYPO3 Issue:
 
 * https://forge.typo3.org/issues/99295
